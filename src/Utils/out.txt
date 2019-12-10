@@ -1,5 +1,0 @@
-== Reporte de entregas ==
-(4, -2) dirección Norte
-(3, -1) dirección Sur
-(0, 0) dirección Occidente
-(2, 0) dirección Norte
